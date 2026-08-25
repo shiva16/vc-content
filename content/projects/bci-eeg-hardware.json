@@ -1,0 +1,9 @@
+{
+  "name": "Adam-EEG / AI Circuit Platform",
+  "slug": "bci-eeg-hardware",
+  "url": "https://github.com/shiva16",
+  "clickable": true,
+  "description": "An open-source 32-channel EEG board I designed in 2015 (quad ADS1299, dual ATmega328), now the foundation for an AI-native circuit design platform — natural language to schematic to PCB to manufacturing files.",
+  "tag": "Open Source",
+  "order": 2
+}
