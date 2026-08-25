@@ -1,0 +1,9 @@
+{
+  "name": "Learning Platform",
+  "slug": "learning-platform",
+  "url": "https://learn.phytolabs.in",
+  "clickable": true,
+  "description": "Course platform for tissue-culture and plant-biotechnology training, with question banks, UPI payments, and real certification — the knowledge to do this well is scattered and expensive.",
+  "tag": "Live",
+  "order": 6
+}
