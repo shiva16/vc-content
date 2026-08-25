@@ -1,0 +1,9 @@
+{
+  "name": "Encrypted Notes",
+  "slug": "encrypted-notes",
+  "url": "https://notes.tcplants.in",
+  "clickable": true,
+  "description": "A single HTML file. No server-side database — GitHub is the only backend, and everything is encrypted client-side before it ever leaves the browser.",
+  "tag": "Live",
+  "order": 7
+}
