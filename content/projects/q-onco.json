@@ -1,0 +1,9 @@
+{
+  "name": "Q-onco",
+  "slug": "q-onco",
+  "url": "https://q-onco.variableconstants.com",
+  "clickable": true,
+  "description": "An AI research assistant built for a cancer researcher in Heidelberg studying the ovarian tumor microenvironment. Notes, literature search, presentation generation, and manuscript writing, all AI-assisted, running behind an AI character named after her late dog.",
+  "tag": "Live",
+  "order": 0
+}
