@@ -1,0 +1,9 @@
+{
+  "name": "adam",
+  "slug": "adam-lang",
+  "url": "",
+  "clickable": false,
+  "description": "A programming language, designed from a written specification before a line of implementation existed. Compiles to C99. Memory strategy — owned, borrowed, reference-counted, garbage-collected — is part of the type system, not bolted on.",
+  "tag": "Building",
+  "order": 3
+}
