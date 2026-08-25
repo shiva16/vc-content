@@ -1,0 +1,9 @@
+{
+  "name": "PhytoStore",
+  "slug": "phytostore",
+  "url": "",
+  "clickable": false,
+  "description": "A multi-tenant e-commerce platform, Shopify-like, for plant sellers across India. Subscriptions, wallet and rewards, product combos, a native Android app, admin in ten Indian languages.",
+  "tag": "Live",
+  "order": 1
+}
