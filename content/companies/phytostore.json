@@ -1,0 +1,8 @@
+{
+  "name": "PhytoStore",
+  "slug": "phytostore",
+  "url": "",
+  "description": "A multi-tenant e-commerce platform I built from scratch for plant sellers — subscriptions, wallet rewards, product combos, a native Android app. Shopify, for plants.",
+  "stage": "active",
+  "order": 3
+}
