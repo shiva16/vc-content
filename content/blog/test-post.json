@@ -1,0 +1,8 @@
+{
+  "title": "Hello, Blog",
+  "slug": "test-post",
+  "date": "2026-08-25T12:00:00.000Z",
+  "excerpt": "A quick test post to verify the new blog pipeline end to end.",
+  "body": "# First heading\n\nThis is a **bold** claim and an *italic* aside, with a [link](https://variableconstants.com).\n\n> A quoted line for good measure.\n\n- one\n- two\n- three",
+  "status": "published"
+}
