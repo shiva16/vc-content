@@ -1,0 +1,35 @@
+name: Build content index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build aggregated dist/*.json
+        run: python3 build-index.py
+
+      - name: Commit dist/
+        run: |
+          git config user.name "vc-content-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add dist/
+          git diff --cached --quiet && echo "no changes" || git commit -m "chore: rebuild content index [skip ci]"
+          git push
+
+      - name: Purge jsDelivr cache
+        run: |
+          for f in dist/*.json; do
+            curl -s -o /dev/null -w "%{http_code} $f\n" \
+              "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f"
+          done
