@@ -1,3 +1,12 @@
 {
-  "docs": []
+  "docs": [
+    {
+      "title": "It is what it isn't",
+      "slug": "theme",
+      "date": "2026-08-26T22:23",
+      "excerpt": "Perception, Proposed, Reality and Facts have very blurry lines, they often seem like they coexist - but with a design and motivation behind it. Clarity & patience are the only 2 factors that seem to pave its way between them to see through.",
+      "body": "Perception — what you see/understand.\n\nProposed — what is projected or presented to you.\n\nReality — what actually exists.\n\nFacts — what can be independently established about it.",
+      "status": "draft"
+    }
+  ]
 }
