@@ -1,0 +1,9 @@
+{
+  "name": "CP Market Intelligence",
+  "slug": "cp-market-intelligence",
+  "url": "https://analytics.carnivorousplants.in",
+  "clickable": true,
+  "description": "Market analytics for the carnivorous-plant industry — price tracking, listing aggregation, and species data, built to answer questions the industry has never had real data for.",
+  "tag": "Live",
+  "order": 5
+}
