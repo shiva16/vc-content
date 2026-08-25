@@ -1,0 +1,85 @@
+{
+  "docs": [
+    {
+      "name": "Q-onco",
+      "slug": "q-onco",
+      "url": "https://q-onco.variableconstants.com",
+      "clickable": true,
+      "description": "An AI research assistant built for a cancer researcher in Heidelberg studying the ovarian tumor microenvironment. Notes, literature search, presentation generation, and manuscript writing, all AI-assisted, running behind an AI character named after her late dog.",
+      "tag": "Live",
+      "order": 0
+    },
+    {
+      "name": "PhytoStore",
+      "slug": "phytostore",
+      "url": "",
+      "clickable": false,
+      "description": "A multi-tenant e-commerce platform, Shopify-like, for plant sellers across India. Subscriptions, wallet and rewards, product combos, a native Android app, admin in ten Indian languages.",
+      "tag": "Live",
+      "order": 1
+    },
+    {
+      "name": "Adam-EEG / AI Circuit Platform",
+      "slug": "bci-eeg-hardware",
+      "url": "https://github.com/shiva16",
+      "clickable": true,
+      "description": "An open-source 32-channel EEG board I designed in 2015 (quad ADS1299, dual ATmega328), now the foundation for an AI-native circuit design platform — natural language to schematic to PCB to manufacturing files.",
+      "tag": "Open Source",
+      "order": 2
+    },
+    {
+      "name": "adam",
+      "slug": "adam-lang",
+      "url": "",
+      "clickable": false,
+      "description": "A programming language, designed from a written specification before a line of implementation existed. Compiles to C99. Memory strategy — owned, borrowed, reference-counted, garbage-collected — is part of the type system, not bolted on.",
+      "tag": "Building",
+      "order": 3
+    },
+    {
+      "name": "OnlyFarm",
+      "slug": "onlyfarm",
+      "url": "",
+      "clickable": false,
+      "description": "A hyperlocal marketplace connecting Tamil Nadu farmers directly with buyers, cutting out the middleman layer that eats most of a small farmer's margin.",
+      "tag": "Building",
+      "order": 4
+    },
+    {
+      "name": "CP Market Intelligence",
+      "slug": "cp-market-intelligence",
+      "url": "https://analytics.carnivorousplants.in",
+      "clickable": true,
+      "description": "Market analytics for the carnivorous-plant industry — price tracking, listing aggregation, and species data, built to answer questions the industry has never had real data for.",
+      "tag": "Live",
+      "order": 5
+    },
+    {
+      "name": "Learning Platform",
+      "slug": "learning-platform",
+      "url": "https://learn.phytolabs.in",
+      "clickable": true,
+      "description": "Course platform for tissue-culture and plant-biotechnology training, with question banks, UPI payments, and real certification — the knowledge to do this well is scattered and expensive.",
+      "tag": "Live",
+      "order": 6
+    },
+    {
+      "name": "Encrypted Notes",
+      "slug": "encrypted-notes",
+      "url": "https://notes.tcplants.in",
+      "clickable": true,
+      "description": "A single HTML file. No server-side database — GitHub is the only backend, and everything is encrypted client-side before it ever leaves the browser.",
+      "tag": "Live",
+      "order": 7
+    },
+    {
+      "name": "Private tools",
+      "slug": "private-tools",
+      "url": "",
+      "clickable": false,
+      "description": "The rest — chat apps, a life-simulation game, AI terminals, note-taking systems, and whatever I am tinkering with at 1am.",
+      "tag": "",
+      "order": 8
+    }
+  ]
+}

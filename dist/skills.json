@@ -1,0 +1,34 @@
+{
+  "docs": [
+    {
+      "name": "Entrepreneurship",
+      "description": "Solo. Building and running companies in biotechnology from the ground up.",
+      "order": 0
+    },
+    {
+      "name": "Life Sciences Research",
+      "description": "Tissue culture, plant biotechnology, propagation systems. Applied science in production environments.",
+      "order": 1
+    },
+    {
+      "name": "Software Development",
+      "description": "Full-stack web applications. Tools people actually use. Clean, purposeful, built to last.",
+      "order": 2
+    },
+    {
+      "name": "Open Hardware",
+      "description": "BCI, EEG and wearable hardware — designed, built, and open-sourced. Available on GitHub.",
+      "order": 3
+    },
+    {
+      "name": "Product Thinking",
+      "description": "From idea to shipped — strategy, design, execution, iteration. Solo, end to end.",
+      "order": 4
+    },
+    {
+      "name": "Sport & Motion",
+      "description": "Badminton and basketball. Long drives. Travelling to understand places.",
+      "order": 5
+    }
+  ]
+}

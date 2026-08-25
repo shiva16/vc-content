@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "platform": "LinkedIn",
+      "handle": "kshivaramakrishnan",
+      "url": "https://www.linkedin.com/in/kshivaramakrishnan/",
+      "icon": "linkedin",
+      "order": 0
+    },
+    {
+      "platform": "GitHub",
+      "handle": "shiva16",
+      "url": "https://github.com/shiva16",
+      "icon": "github",
+      "order": 1
+    },
+    {
+      "platform": "Instagram",
+      "handle": "variable_constants",
+      "url": "https://www.instagram.com/variable_constants/",
+      "icon": "instagram",
+      "order": 2
+    },
+    {
+      "platform": "Email",
+      "handle": "shiva.adam@gmail.com",
+      "url": "mailto:shiva.adam@gmail.com",
+      "icon": "email",
+      "order": 3
+    }
+  ]
+}

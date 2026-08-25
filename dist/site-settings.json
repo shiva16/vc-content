@@ -1,0 +1,85 @@
+{
+  "heroName": "K. Shivaramakrishnan",
+  "roleTags": [
+    {
+      "label": "Entrepreneur"
+    },
+    {
+      "label": "Researcher"
+    },
+    {
+      "label": "Developer"
+    },
+    {
+      "label": "Hardware Builder"
+    },
+    {
+      "label": "Badminton & Basketball"
+    },
+    {
+      "label": "Travel & Drives"
+    }
+  ],
+  "heroBio": "I build things — alone, from scratch. Three companies in plant biotechnology, an e-commerce platform built to run them, software for a cancer researcher in Heidelberg, a programming language, and open circuit design. Based in Chennai. Everything connects back to the life sciences.",
+  "heroAside": "Also: I collect tea.",
+  "footerLeft": "K. Shivaramakrishnan — Chennai",
+  "footerRight": "variable constants — things that change, that hold.",
+  "navLinks": [
+    {
+      "label": "Now",
+      "href": "#now"
+    },
+    {
+      "label": "Work",
+      "href": "#work"
+    },
+    {
+      "label": "Built",
+      "href": "#tools"
+    },
+    {
+      "label": "Writing",
+      "href": "/mind"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "sectionLabels": [
+    {
+      "sectionKey": "now",
+      "label": "Now"
+    },
+    {
+      "sectionKey": "what",
+      "label": "What I Do"
+    },
+    {
+      "sectionKey": "work",
+      "label": "Companies — all biotechnology"
+    },
+    {
+      "sectionKey": "tools",
+      "label": "Things I Built"
+    },
+    {
+      "sectionKey": "testimonials",
+      "label": "What People Say"
+    },
+    {
+      "sectionKey": "mentions",
+      "label": "Press & Talks"
+    },
+    {
+      "sectionKey": "writing",
+      "label": "Writing"
+    },
+    {
+      "sectionKey": "contact",
+      "label": "Get In Touch"
+    }
+  ],
+  "metaTitle": "K. Shivaramakrishnan",
+  "metaDescription": "Entrepreneur, researcher, developer, hardware builder. Chennai."
+}
