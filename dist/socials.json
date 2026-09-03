@@ -1,17 +1,17 @@
 {
   "docs": [
     {
-      "platform": "LinkedIn",
-      "handle": "kshivaramakrishnan",
-      "url": "https://www.linkedin.com/in/kshivaramakrishnan/",
-      "icon": "linkedin",
-      "order": 0
-    },
-    {
       "platform": "GitHub",
       "handle": "shiva16",
       "url": "https://github.com/shiva16",
       "icon": "github",
+      "order": 0
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "kshivaramakrishnan",
+      "url": "https://www.linkedin.com/in/kshivaramakrishnan/",
+      "icon": "linkedin",
       "order": 1
     },
     {
