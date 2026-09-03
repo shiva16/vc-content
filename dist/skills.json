@@ -1,23 +1,23 @@
 {
   "docs": [
     {
+      "name": "Entrepreneurship",
+      "description": "Solo. Building and running companies in biotechnology from the ground up.",
+      "order": 0
+    },
+    {
       "name": "Life Sciences Research",
       "description": "Tissue culture, plant biotechnology, propagation systems. Applied science in production environments.",
-      "order": 0
+      "order": 1
     },
     {
       "name": "Software Development",
       "description": "Full-stack web applications. Tools people actually use. Clean, purposeful, built to last.",
-      "order": 1
+      "order": 2
     },
     {
       "name": "Open Hardware",
       "description": "BCI, EEG and wearable hardware — designed, built, and open-sourced. Available on GitHub.",
-      "order": 2
-    },
-    {
-      "name": "Entrepreneurship",
-      "description": "Solo. Building and running companies in biotechnology from the ground up.",
       "order": 3
     },
     {
