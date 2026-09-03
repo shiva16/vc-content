@@ -1,0 +1,9 @@
+{
+  "name": "ZZ Test Project",
+  "slug": "zz-test-project",
+  "url": "https://example.com",
+  "clickable": true,
+  "description": "A test project.",
+  "tag": "Building",
+  "order": 99
+}
