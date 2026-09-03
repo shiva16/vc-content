@@ -1,11 +1,11 @@
 {
   "docs": [
     {
-      "name": "Q-onco",
-      "slug": "q-onco",
-      "url": "https://q-onco.variableconstants.com",
+      "name": "Forest Studio Hospitality",
+      "slug": "forest-studio-hospitality",
+      "url": "https://hospitality.phytolabs.in",
       "clickable": true,
-      "description": "An AI research assistant built for a cancer researcher in Heidelberg studying the ovarian tumor microenvironment. Notes, literature search, presentation generation, and manuscript writing, all AI-assisted, running behind an AI character named after her late dog.",
+      "description": "A property-management and booking platform for independent stays — hotels, homestays, hostels, dorms, villas. Hard-forked from a mature engine and rebuilt: full de-brand, in-house kitchen operations, per-bed dorm inventory, iCal channel sync, a guest site and a back office. Live demo of a Coonoor bungalow.",
       "tag": "Live",
       "order": 0
     },
