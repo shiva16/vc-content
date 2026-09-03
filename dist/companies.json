@@ -6,7 +6,7 @@
       "url": "",
       "description": "Next research initiative — forming.",
       "stage": "forming",
-      "order": 1
+      "order": 0
     },
     {
       "name": "PhytoStore",
@@ -14,7 +14,7 @@
       "url": "",
       "description": "A multi-tenant e-commerce platform I built from scratch for plant sellers — subscriptions, wallet rewards, product combos, a native Android app. Shopify, for plants.",
       "stage": "active",
-      "order": 2
+      "order": 1
     },
     {
       "name": "Carnivorous Plants India",
@@ -22,7 +22,7 @@
       "url": "https://carnivorousplants.in",
       "description": "The largest carnivorous-plant collection and community in India — Nepenthes, Sarracenia, Dionaea and more, grown and shipped nationwide.",
       "stage": "active",
-      "order": 3
+      "order": 2
     },
     {
       "name": "TC Plants",
@@ -30,7 +30,7 @@
       "url": "https://tcplants.in",
       "description": "Wholesale and retail tissue-culture plant supply across India, diverging into lab supplies, chemicals, and protected protocol documents for practitioners.",
       "stage": "active",
-      "order": 4
+      "order": 3
     },
     {
       "name": "Phyto Labs",
@@ -38,7 +38,7 @@
       "url": "https://phytolabs.in",
       "description": "Professional tissue-culture and biotechnology lab — carnivorous plants, rare tropicals, commercial propagation at production scale. The parent brand behind the whole family.",
       "stage": "active",
-      "order": 5
+      "order": 4
     }
   ]
 }
