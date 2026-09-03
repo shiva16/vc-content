@@ -1,0 +1,9 @@
+{
+  "name": "Forest Studio Hospitality",
+  "slug": "forest-studio-hospitality",
+  "url": "https://hospitality.phytolabs.in",
+  "clickable": true,
+  "description": "A property-management and booking platform for independent stays — hotels, homestays, hostels, dorms, villas. Hard-forked from a mature engine and rebuilt: full de-brand, in-house kitchen operations, per-bed dorm inventory, iCal channel sync, a guest site and a back office. Live demo of a Coonoor bungalow.",
+  "tag": "Live",
+  "order": 0
+}
