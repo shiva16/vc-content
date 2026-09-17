@@ -1,6 +1,6 @@
 import json, os, glob
 
-COLLECTIONS = ["companies", "projects", "skills", "socials", "now-entries", "testimonials", "mentions", "work-history", "blog"]
+COLLECTIONS = ["companies", "projects", "skills", "socials", "now-entries", "testimonials", "mentions", "work-history", "blog", "hero-photos"]
 
 os.makedirs("dist", exist_ok=True)
 
